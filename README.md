@@ -5,5 +5,6 @@
 
 
 
-![automl](https://github.com/AnshTanwar/Machine-Learning-Notebooks/assets/97782299/e5ff6270-bd08-43d3-ad04-1e8bb530ba0f)
+![image](https://s.wsj.net/public/resources/images/OG-BI394_201805_GR_20180503153928.gif)
+
 
