@@ -1,2 +1,2 @@
 # Machine-Learning-Notebooks
-All Public Notebooks available at Kaggle
+All my publicly available Notebooks 
